@@ -16,6 +16,9 @@ dataset and then performance is measured. Among all these models, we select
 the best model in terms of F1 score and computational cost to deploy and then
 to use for prediction of the clinical domain.
 
+## Folder and files details:
+We show here two folders, power point presentation(using Google slides) and Our research paper. One folder is data that contains original data scraped from the MTsamples website as unbalanced_data.csv and also contains balanced_data.csv, created using NLP Augmenter. The folder scripts contain 12 scripts that we have generated for all the project activities from web scraping to deployment.
+
 ## Datasets:
 We use the data from MTSamples.com website that offers access to a large
 collection of transcribed digital medical reports and examples. The site is designed
